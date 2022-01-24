@@ -25,6 +25,8 @@ Observer Z has provided the right answer - however, for the wrong reason. This i
 
 Question: "What is the length of each line, if the shortest continuous element is length 1?"
 
-Observer X: "Blue is \sqrt{2} and red is ."\
-Observer Y: "Red."\
-Observer Z: "They are the same length."
+Observer X: "Blue is 2^0.5 and red is 2."\
+Observer Y: "Red is 2 and blue is 2^0.5."\
+Observer Z: "Blue is 2 and red is 2."
+
+We know, however, that the true lengths are both 1 +2^0.5
