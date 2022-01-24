@@ -20,8 +20,8 @@ Observer Z: "They are the same length."
 
 Each of these observations represent three different kinds of wrong:
 
-Observers X and Y have provided wrong answers.\
-Observer Z has provided the right answer - however, for the wrong reason. This is revealed by a follow-on question:
+Observers X and Y have provided wrong answers, with over-estimations and under-estimations for each line.\
+Observer Z has provided the right answer - however, for the wrong reason! This is revealed by a follow-on question:
 
 Question: "What is the length of each line, if the shortest continuous element is length 1?"
 
