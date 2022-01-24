@@ -12,13 +12,13 @@ When viewed isometrically in 3D it is clear that the length of the blue line equ
 
 However, Observers X, Y, and Z (viewing the object along the respective axis at a far away distance) would each answer the following question differently:
 
-Question: "Which line is longer; red or blue?"\
+Question: "Which line is longer; red or blue?"
 
 Observer X: "Blue."\
-Observer Y: "Red."\
-Observer Z: "They are the same length."\
+Observer Y: "Red."
+Observer Z: "They are the same length."
 
-Each of these observations represent three different kinds of wrong:\
+Each of these observations represent three different kinds of wrong:
 
 Observers X and Y have provided wrong answers.\
-Observer Z has provided the right answer - however, for the wrong reason.\
+Observer Z has provided the right answer - however, for the wrong reason.
