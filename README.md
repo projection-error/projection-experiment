@@ -1,5 +1,5 @@
 
 
-# projection-experiment!
+# projection-experiment
 
-![plot](https://user-images.githubusercontent.com/84434778/150727426-2ba19867-9ff2-4e67-b802-29bce13c5ee3.png)
+![plot](https://user-images.githubusercontent.com/84434778/150727426-2ba19867-9ff2-4e67-b802-29bce13c5ee3.png){:height="50%" width="50%"}
