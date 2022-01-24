@@ -41,6 +41,9 @@ This example illustrates the perception of an object in 3D from 3 vantage points
 
 ![red sphere](https://user-images.githubusercontent.com/84434778/150730559-170e8938-3f7f-43d6-a174-870a4baa20d7.png)
 
+![perceptisphere](https://user-images.githubusercontent.com/84434778/150730619-d0bbb1d6-cd04-45c3-8abd-c871396917b3.png)
+
+
 
 
 
