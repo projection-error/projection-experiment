@@ -1,7 +1,7 @@
 
 
 # projection-experiment
-Projection error can lead to rationale agents viewing the same object with contradicting observations.
+Projection error can lead to rationale agents viewing the same object and drawing contradicting observations.
 
 For example, below is a cube containing four connected line segments- two blue and two red.\
         (Note: Created with projection-cube.py & cube.txt)
