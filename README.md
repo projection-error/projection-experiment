@@ -33,3 +33,15 @@ We know, however, that the true lengths are both 1 +2^0.5
 
 I created this object as a description for how intelligent people can perceive a problem and, with perfect rationality, end up with differing perspectives. However, through the integration of all three viewpoints, it becomes possible to discover the true invariance of the situation. Once discovered, the problem is fully solved.
 
+This example illustrates the perception of an object in 3D from 3 vantage points. Could there be other insights from other vantage points?
+
+![plot](https://user-images.githubusercontent.com/84434778/150730433-a48df29e-94bb-4f11-b026-ffc93da86018.png)
+
+![blue sphere](https://user-images.githubusercontent.com/84434778/150730553-7b43d36c-63fb-4a03-935f-a8a07fa6bb83.png)
+
+![red sphere](https://user-images.githubusercontent.com/84434778/150730559-170e8938-3f7f-43d6-a174-870a4baa20d7.png)
+
+
+
+
+
