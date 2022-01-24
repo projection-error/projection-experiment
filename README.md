@@ -30,3 +30,6 @@ Observer Y: "Red is 2 and blue is 2^0.5."\
 Observer Z: "Blue is 2 and red is 2."
 
 We know, however, that the true lengths are both 1 +2^0.5
+
+I created this object as a description for how intelligent people can perceive a problem and, with perfect rationality, end up with differing perspectives. However, through the integration of all three viewpoints, it becomes possible to discover the true invariance of the situation. Once discovered, the problem is fully solved.
+
