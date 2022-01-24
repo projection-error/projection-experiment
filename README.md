@@ -15,8 +15,17 @@ However, Observers X, Y, and Z (viewing the object along the respective axis at 
 Question: "Which line is longer; red or blue?"
 
 Observer X: "Blue."\
+![X](https://user-images.githubusercontent.com/84434778/150860407-ed9bb40a-1bad-4dfe-8430-40a5b738db2a.png)
+
+
 Observer Y: "Red."\
+![Y](https://user-images.githubusercontent.com/84434778/150860418-0cc11fe9-443a-4914-98d5-bb27dc83406a.png)
+
+
 Observer Z: "They are the same length."
+![Z](https://user-images.githubusercontent.com/84434778/150860428-8c6e2801-5143-422d-abbc-87fc586ba8e8.png)
+
+
 
 Each of these observations represent three different kinds of wrong:
 
