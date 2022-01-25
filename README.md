@@ -42,11 +42,20 @@ I created this object as a description for how intelligent people can perceive a
 
 This example illustrates the perception of an object in 3D from 3 vantage points. Could there be other insights from other vantage points?
 
+The green points shown in the following illustration represent locations from which ths object is viewed and apparent lengths calculated.
+
 ![plot](https://user-images.githubusercontent.com/84434778/150730433-a48df29e-94bb-4f11-b026-ffc93da86018.png)
+
+Using a colormap, it's possible to see how the perception of the blue lines changes depending on the viewing angle.
 
 ![blue sphere](https://user-images.githubusercontent.com/84434778/150730553-7b43d36c-63fb-4a03-935f-a8a07fa6bb83.png)
 
+
+The distribution is mirrored for the red line projections.
+
 ![red sphere](https://user-images.githubusercontent.com/84434778/150730559-170e8938-3f7f-43d6-a174-870a4baa20d7.png)
+
+Finally, the mismatch between red and blue line lengths is computed and a colorscale used. This plot is pretty neat - it shows the planes of symmetry.
 
 ![perceptisphere](https://user-images.githubusercontent.com/84434778/150730619-d0bbb1d6-cd04-45c3-8abd-c871396917b3.png)
 
