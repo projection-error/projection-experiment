@@ -14,10 +14,10 @@ However, Observers X, Y, and Z (viewing the object along the respective axis at 
 
 Question: "Which line is longer; red or blue?"
 
-Observer X: "Blue."\
+Observer X: "Red."\
 ![X](https://user-images.githubusercontent.com/84434778/150860407-ed9bb40a-1bad-4dfe-8430-40a5b738db2a.png)
 
-Observer Y: "Red."\
+Observer Y: "Blue."\
 ![Y](https://user-images.githubusercontent.com/84434778/150861176-90c68af3-596b-4ea4-84a7-62d0296fa359.png)
 
 Observer Z: "They are the same length."\
