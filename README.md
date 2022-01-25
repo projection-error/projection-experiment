@@ -46,7 +46,7 @@ The green points shown in the following illustration represent locations from wh
 
 ![plot](https://user-images.githubusercontent.com/84434778/150730433-a48df29e-94bb-4f11-b026-ffc93da86018.png)
 
-Using a colormap, it's possible to see how the perception of the blue lines changes depending on the viewing angle.
+Using a colormap, it's possible to see how the perception of the blue lines changes depending on the viewing angle (darker blue is a longer line, while whiter is a shorter line).
 
 ![blue sphere](https://user-images.githubusercontent.com/84434778/150730553-7b43d36c-63fb-4a03-935f-a8a07fa6bb83.png)
 
