@@ -42,7 +42,7 @@ I created this object as a description for how intelligent people can perceive a
 
 This example illustrates the perception of an object in 3D from 3 vantage points. Could there be other insights from other vantage points?
 
-The green points shown in the following illustration represent locations from which ths object is viewed and apparent lengths calculated.
+The green points shown in the following illustration represent locations from which the object is viewed and apparent lengths calculated.
 
 ![plot](https://user-images.githubusercontent.com/84434778/150730433-a48df29e-94bb-4f11-b026-ffc93da86018.png)
 
