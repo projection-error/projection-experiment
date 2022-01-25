@@ -60,6 +60,9 @@ Finally, the mismatch between red and blue line lengths is computed and a colors
 ![plot](https://user-images.githubusercontent.com/84434778/150727426-2ba19867-9ff2-4e67-b802-29bce13c5ee3.png)![plot](https://user-images.githubusercontent.com/84434778/150730619-d0bbb1d6-cd04-45c3-8abd-c871396917b3.png)
 
 
+<img src="https://user-images.githubusercontent.com/84434778/150727426-2ba19867-9ff2-4e67-b802-29bce13c5ee3.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/84434778/150730619-d0bbb1d6-cd04-45c3-8abd-c871396917b3.png" width="100" height="100">
+
 
 
 
