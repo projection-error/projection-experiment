@@ -20,7 +20,7 @@ Observer X: "Blue."\
 Observer Y: "Red."\
 ![Y](https://user-images.githubusercontent.com/84434778/150861176-90c68af3-596b-4ea4-84a7-62d0296fa359.png)
 
-Observer Z: "They are the same length."
+Observer Z: "They are the same length."\
 ![Z](https://user-images.githubusercontent.com/84434778/150860428-8c6e2801-5143-422d-abbc-87fc586ba8e8.png)
 
 
