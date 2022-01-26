@@ -58,7 +58,7 @@ The distribution is mirrored for the red line projections.
 Finally, the mismatch between red and blue line lengths is computed and a colorscale used. This plot is pretty neat - it shows the planes of symmetry.
 
 
-<img src="https://user-images.githubusercontent.com/84434778/150727426-2ba19867-9ff2-4e67-b802-29bce13c5ee3.png" width="500" height="500"><img src="https://user-images.githubusercontent.com/84434778/150730619-d0bbb1d6-cd04-45c3-8abd-c871396917b3.png" width="500" height="500">
+<img src="https://user-images.githubusercontent.com/84434778/150727426-2ba19867-9ff2-4e67-b802-29bce13c5ee3.png" width="400" height="400"><img src="https://user-images.githubusercontent.com/84434778/150730619-d0bbb1d6-cd04-45c3-8abd-c871396917b3.png" width="400" height="400">
 
 
 
