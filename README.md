@@ -1,10 +1,18 @@
 
+# Overview
+This project explores the following problem:
+- Embed two line segments, blue and red, in a 3-D cube.
+- Analyze the apparent length of each line from different vantage points.
+- Find the loci of vantage points where lines *appear* to have the same length.
+        - **cube.txt** and **lines.txt** embed geometric coordinates
+        - **projection-cube.py** plots the lines and cube in matplotlib
+        - **projection-experiment.py** computes the apparent lengths from different vantages points and makes plots. 
 
 # projection-experiment
 Projection error can lead to rationale agents viewing the same object and drawing contradicting observations.
 
 For example, below is a cube containing four connected line segments- two blue and two red.\
-        (Note: Created with projection-cube.py & cube.txt)
+        (Note: Created with projection-cube.py, cube.txt, and lines.txt)
 
 ![plot](https://user-images.githubusercontent.com/84434778/150727426-2ba19867-9ff2-4e67-b802-29bce13c5ee3.png)
 
@@ -55,7 +63,7 @@ The distribution is mirrored for the red line projections.
 
 ![red sphere](https://user-images.githubusercontent.com/84434778/150730559-170e8938-3f7f-43d6-a174-870a4baa20d7.png)
 
-Finally, the mismatch between red and blue line lengths is computed and a colorscale used. This plot is pretty neat - it shows the planes of symmetry.
+Finally, the mismatch between red and blue line lengths is computed and a colorscale used. This plot is pretty neat - it shows the planes of symmetry. Orbitting about either of these two planes continuously changes the lengths of both lines - but the apparent lengths remain equal!
 
 
 <img src="https://user-images.githubusercontent.com/84434778/150727426-2ba19867-9ff2-4e67-b802-29bce13c5ee3.png" width="400" height="400"><img src="https://user-images.githubusercontent.com/84434778/150730619-d0bbb1d6-cd04-45c3-8abd-c871396917b3.png" width="400" height="400">
