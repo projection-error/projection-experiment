@@ -9,7 +9,7 @@ This project explores the following problem:
         - **projection-experiment.py** computes the apparent lengths from different vantages points and makes plots. 
 
 # projection-experiment
-Projection error can lead to rationale agents viewing the same object and drawing contradicting observations.
+Projection error can lead to rational agents viewing the same object and drawing contradicting observations.
 
 For example, below is a cube containing four connected line segments- two blue and two red.\
         (Note: Created with projection-cube.py, cube.txt, and lines.txt)
@@ -35,7 +35,7 @@ Observer Z: "They are the same length."\
 
 Each of these observations represent three different kinds of wrong:
 
-Observers X and Y have provided wrong answers, with over-estimations and under-estimations for each line.\
+Observers X and Y have provided wrong answers, with over-estimations and under-estimations for each line, respectively.\
 Observer Z has provided the right answer - however, for the wrong reason! This is revealed by a follow-on question:
 
 Question: "What is the length of each line, if the shortest continuous element is length 1?"
